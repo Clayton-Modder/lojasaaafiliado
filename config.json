@@ -1,0 +1,15 @@
+{
+  "siteName": "Nova Ofertas",
+  "siteDescription": "As melhores ofertas da internet em um só lugar",
+  "footerText": "© 2026 Nova Ofertas. Todos os direitos reservados.",
+  "categories": [
+    {"name": "Todos", "icon": "Filter"},
+    {"name": "Smartphones", "icon": "Smartphone"},
+    {"name": "Notebooks", "icon": "Laptop"},
+    {"name": "Áudio", "icon": "Headphones"},
+    {"name": "Casa Inteligente", "icon": "Home"},
+    {"name": "Wearables", "icon": "Watch"},
+    {"name": "Hardware", "icon": "Cpu"},
+    {"name": "Periféricos", "icon": "Laptop"}
+  ]
+}
